@@ -1,0 +1,4 @@
+val me = "Aidan";
+val greeting = "hello";
+alert(greeting);
+alert("my name is" + me);
